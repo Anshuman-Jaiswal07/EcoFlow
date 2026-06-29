@@ -31,6 +31,7 @@ Navigate to the server directory and install dependencies:
 ```bash
 cd Ecoflow-backend
 npm install
+npm run dev
 ```
 ### 2. Frontend Configuration
 Navigate to the frontend directory, install the required interface dependencies, and boot up the development server:
