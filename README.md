@@ -27,7 +27,7 @@ This project is structured as a unified monorepo containing both the decoupled c
 ## Installation & Setup
 
 ### 1. Backend Configuration
-Navigate to the server directory and install dependencies:
+Navigate to the server directory and install dependencies and run:
 ```bash
 cd Ecoflow-backend
 npm install
